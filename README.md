@@ -1,4 +1,4 @@
-# 自主プロでUnityで作成したVR Quidditchのスクリプト
+# 自主プロでUnityで作成したVRゲームのスクリプト
 ## ファイル構成
 - CanvasText ... canvas に書く内容に関するスクリプト
 - ResetScene ... ゲームを最初からやり直したいときのためのスクリプト
